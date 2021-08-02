@@ -400,8 +400,6 @@ PRODUCT_PACKAGES += \
     DCMO \
     DMService \
     DiagMon \
-    EuiccGoogle \
-    EuiccSupportPixel \
     HardwareInfo \
     HotwordEnrollmentOKGoogleRT5514P \
     HotwordEnrollmentXGoogleRT5514P \
